@@ -2,10 +2,7 @@ import unittest
 
 import UpdatingService
 import seatInitializer
-from unittest import mock
 from unittest.mock import patch
-import io
-from contextlib import redirect_stdout
 import io
 
 
